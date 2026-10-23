@@ -1,0 +1,8 @@
+**/vendor/
+**/node_modules/
+vSMTB/dist/
+**/.env
+**/.env.*
+!.env.example
+*.log
+.DS_Store
